@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DavidFlorin/test-npm-pk1/issues"
   },
-  "homepage": "https://github.com/DavidFlorin/test-npm-pk1#readme"
+  "homepage": "https://github.com/DavidFlorin/test-npm-pk1#readme",
+  "peerDependencies": {
+    "test-npm-common1": "git+ssh://git@github.com/DavidFlorin/test-npm-common1.git#>= 0.0.2 < 1"
+  }
 }
