@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DavidFlorin/test-npm-pk1#readme",
   "peerDependencies": {
-    "test-npm-common1": "git+ssh://git@github.com/DavidFlorin/test-npm-common1.git#v1.x"
+    "test-npm-common1": "git+ssh://git@github.com/DavidFlorin/test-npm-common1.git#1.x"
   }
 }
