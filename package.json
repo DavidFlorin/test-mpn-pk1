@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DavidFlorin/test-npm-pk1#readme",
   "peerDependencies": {
-    "test-npm-common1": ">=1.0.0"
+    "test-npm-common1": ">=1.0.4"
   }
 }
